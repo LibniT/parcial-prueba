@@ -1,0 +1,6 @@
+E:\c shar\PARCIAL 1 2024-2\ENTIDADES\bin\Debug\ENTIDADES.dll
+E:\c shar\PARCIAL 1 2024-2\ENTIDADES\bin\Debug\ENTIDADES.pdb
+E:\c shar\PARCIAL 1 2024-2\ENTIDADES\obj\Debug\ENTIDADES.csproj.AssemblyReference.cache
+E:\c shar\PARCIAL 1 2024-2\ENTIDADES\obj\Debug\ENTIDADES.csproj.CoreCompileInputs.cache
+E:\c shar\PARCIAL 1 2024-2\ENTIDADES\obj\Debug\ENTIDADES.dll
+E:\c shar\PARCIAL 1 2024-2\ENTIDADES\obj\Debug\ENTIDADES.pdb
